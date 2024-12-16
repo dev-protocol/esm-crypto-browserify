@@ -28,7 +28,7 @@
 	"dependencies": {
 		"@rollup/plugin-commonjs": "^28.0.0",
 		"@rollup/plugin-json": "^6.0.1",
-		"@rollup/plugin-node-resolve": "^15.0.0",
+		"@rollup/plugin-node-resolve": "^16.0.0",
 		"@rollup/plugin-typescript": "^12.0.0",
 		"crypto-browserify": "^3.12.0",
 		"rimraf": "5.0.10",
